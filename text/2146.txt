@@ -1,0 +1,28 @@
+
+D’où vient cette idée, qui traîne toujours dans les conversations de famille, qu’il y aurait un bon vieux temps? Une époque dont nous devrions être nostalgique? Qu’entre aujourd’hui et hier, il y a une coupure radicale?
+En un siècle, le monde a davantage changé qu’en plusieurs millénaires. Et si pour un homme, cent ans, c’est immense, pour une civilisation, c’est peu. Les «mentalités» changent lentement. Si on les bouscule, elles entrent en crise.
+On pense évidemment au progrès technologique. L’homme d’hier était rivé à son lopin de terre. Aujourd’hui, il lui suffit de se brancher sur son ordinateur pour se connecter virtuellement à l’humanité. L’homme a gagné en liberté.
+Plus seul que jamais 
+Mais paradoxalement, l’homme n’a jamais été aussi seul que devant son écran. Il entre dans le monde des fantasmes. Il s’imagine avoir une conversation quand il clavarde avec un inconnu. Il s’imagine avoir du sexe torride quand il se masturbe devant un site Web.
+On pense aux progrès médicaux. Autrefois, on mourrait jeune. Aujourd’hui, on peut vivre heureux longtemps. Mais on peut aussi finir sa vie abandonné dans un parc à vieux, comme si la société voyait ses aînés comme un fardeau.
+On pense à la famille. C’est le moins qu’on puisse dire qu’elle a changé de définition depuis cinquante ans. Elle n’est plus aussi contraignante, c’est vrai. Une union malheureuse peut se dissoudre en paix. Mais elle n’est plus un refuge. Les enfants en paient souvent le prix.
+On pensera aussi au travail. Évidemment, on peut choisir sa carrière. Mais ballotté d’un contrat à l’autre, inquiété par la mondialisation, le travailleur a une vie incertaine et précaire. Cela pousse à l’individualisme. Car comment bâtir un foyer durable si chacun pense d’abord à sa survie?
+On pensera enfin au pays. Aujourd’hui, les frontières sont poreuses. On peut presque choisir son pays. Mais inversement, l’identité des peuples est fragilisée. Et soyons francs : le citoyen du monde est 9 fois sur 10 un citoyen de nulle part.
+Besoin de repères
+Je résume. La plupart des cadres de l’existence se sont effondrés.
+Ou se sont profondément transformés. On dira que l’homme gagne ainsi en liberté. C’est vrai des plus beaux et des plus riches.
+Pour eux, le monde qui vient, tout n’est qu’opportunité. La planète devient leur parc d’amusement.
+Mais pour l’immense majorité, ce monde engendre souvent de l’angoisse. Les gens ordinaires ont besoin de repères pour vivre. D’une famille. D’un métier. D’un pays. Ils ont besoin que la société leur garantisse une certaine stabilité, pour ensuite chercher leur bonheur.
+Pourtant, on culpabilise souvent ceux qui constatent le côté sombre du «progrès». On les présente comme de vieux toqués. Comme d’exaspérants râleurs. Comme des nostalgiques bornés. On aimerait les faire taire.
+Depuis un siècle, nous avons chanté un monde sans limites, un monde en mouvement perpétuel. Il se pourrait que le siècle qui vient soit celui de la réparation. Que nous redécouvrions que l’homme a non seulement besoin d’un vaste horizon, mais de profondes racines.
+Nous ne reviendrons pas au monde d’hier, évidemment. Il n’y a pas eu de bon vieux temps. Nous cesserons de croire, toutefois, qu’il ne peut rien nous apprendre.
+
+.titre_bi {margin-bottom: 5px; text-transform: none;line-height: 27px;font-style: normal;font-family: ProximaNovaExtraCondensedBold;text-align: center;font-weight: normal;font-size: 23px;}
+.espace_bloc { padding-left: 15px; padding-bottom: 10px; padding-right: 15px; padding-top: 10px; background-color: #f2f0dd; width: 180px;}
+.sig { font-size: 16px; padding-right: 5px; text-align: right; }
+
+
+
+     L’homme s’imagine avoir une conversation quand il clavarde avec un inconnu 
+   
+

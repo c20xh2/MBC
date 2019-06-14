@@ -1,0 +1,25 @@
+
+Au premier regard, il s’agit d’un film de superhéros. Superhéros en lutte contre un superméchant. Je parle de Batman. Le grand classique du cinéma américain, finalement. Le Bien finit par triompher du Mal. Du moins, il parvient à le contenir. 
+Mais le Batman revisité par le réalisateur Christopher Nolan n’est plus un clown en collant. Si le film est remarquable, c’est qu’il est aussi philosophique. Il porte une réflexion sur le pouvoir. Sur ce qui permet à une société de survivre. Sur la tentation du chaos qui loge toujours en elle.
+
+.titre_bi {margin-bottom: 5px; text-transform: none;line-height: 27px;font-style: normal;font-family: ProximaNovaExtraCondensedBold;text-align: center;font-weight: normal;font-size: 23px;}
+.espace_bloc { padding: 5px; margin-right: 10px; background-color: #f2f0dd; float: left;width: 150px;}
+.sig { font-size: 16px; padding-right: 5px; text-align: right; }
+
+
+
+     « La politique, c’est souvent l’utilisation du mal nécessaire à la défense du bien commun  » 
+   
+
+Devin
+Il faut dire que le thème est à la mode. David Cronenberg l’a exploré aussi dans son dernier film, Cosmopolis. Le capitalisme s’y effondre. Des groupes révolutionnaires dénoncent les institutions. Et font le choix de la violence. La société se décompose. Vision prophétique ? Cronenberg, un devin ?
+L’originalité de Batman, c’est que Nolan exprime de gros doutes sur la valeur du chaos. Alors qu’on fait normalement de la poésie avec la Révolution. Elle est belle. Ce qu’elle veut, on doit lui donner. Elle représenterait l’humanité en marche.
+Nolan montre que la chorale révolutionnaire chante faux. Et nous rappelle que ceux qui croient représenter le bien absolu versent souvent dans le fanatisme vengeur. Vous êtes en désaccord avec eux ? Vous êtes un monstre.
+On le voit avec le méchant principal, le personnage de Bane. Il représente la pulsion du chaos. La destruction pour elle-même. Il charme les excités en exacerbant chez eux le sentiment d’injustice. Mais ce qu’il aime, c’est le chaos. Ne nous trompons pas: de tels gens existent.
+Pour se défendre, la société ne peut pas seulement miser sur des lois en dentelle. La politique, c’est souvent l’utilisation du mal nécessaire à la défense du bien commun. De temps en temps, elle doit miser sur la force. Souvent, hélas ! elle en abuse.
+Pourtant, l’armée et la police ne sont pas nécessairement les ennemis de la démocratie. Il arrive qu’ils la protègent. Il faut aussi des hommes d’exception pour relever des situations exceptionnelles. Roosevelt, Churchill, de Gaulle : on ne se souvient pas d’eux pour rien.
+La vraie démocratie, c’est le contraire de la révolution. Elle nous rappelle que personne n’a absolument raison. Elle nous apprend à nous diviser en paix. Mais quand une crise majeure arrive, les passions se radicalisent. D’un coup, on se met à haïr. La démocratie éclate.
+Réforme
+Mais la démocratie mérite d’être défendue. Le capitalisme aussi. La tentation est forte aujourd’hui de n’en voir que les excès. Il partage inégalement les richesses ? Certes. Au moins il en crée. À la différence du socialisme qui partage également la misère.
+Cela ne veut pas dire que la société ne doit pas se réformer. Les privilèges des riches doivent être questionnés. La misère des pauvres dénoncée. Aucune société n’est à l’abri de l’injustice. Mais il faudrait distinguer les bonnes réformes du désir de tout casser.
+Le Batman de Christopher Nolan met en scène une vérité politique désagréable. Il se pourrait bien qu’un ordre injuste soit préférable à un désordre radical qui fait le malheur de tout le monde. À condition, évidemment, de toujours améliorer le premier.

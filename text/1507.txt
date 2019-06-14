@@ -1,0 +1,450 @@
+
+
+
+
+.espace_210 {
+	padding-bottom: 10px;
+	width: 650px;
+	background-color: #caecf2;
+}
+
+.titre {
+	padding-top: 5px;
+	text-align: left;
+	color: black;
+	text-transform: uppercase;
+	line-height: 75px;
+	font-size: 75px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: 'Tungsten A', 'Tungsten B'; font-weight: 700; font-style: normal;
+}
+.titre2 {
+	padding-bottom: 5px;
+	text-align: left;
+	color: black;
+	text-transform: uppercase;
+	line-height: 42px;
+	font-size: 42px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: 'Tungsten A', 'Tungsten B'; font-weight: 700; font-style: normal;
+}
+.texte{
+	text-align: left;
+	padding-right: 10px;
+	padding-left: 10px;
+	line-height: 12pt;
+	font-size: 10pt;
+	font-family: 'Whitney SSm A', 'Whitney SSm B';
+	font-weight: 400;
+	font-style: normal;
+}
+.ligne{
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	height: 2px;
+	background-color: #ed1c24;
+}
+.espace_blogue{
+	padding-right: 10px;
+	text-align: left;
+	color: black;
+	line-height: 30px;
+	font-size: 10pt;
+	padding-left: 10px;
+	font-family: 'Whitney SSm A', 'Whitney SSm B';
+	font-weight: bold;
+}
+.espace_blogue a{
+	text-decoration: none;
+	color: black;	
+}
+.espace_blogue_logo{
+	padding-right: 5px;
+	float: left;
+}
+.espace_blogue_texte{
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 97%;
+	display: table;
+}
+.texte_blogue{
+	width: 50%;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	background-color: white;
+	display: table-cell;
+}
+.texte_blogue:first-child{
+	border-right-color: #caecf2;
+	border-right-style: solid;
+	border-right-width: 3px;
+}
+.texte_blogue:last-child{
+	border-left-color: #caecf2;
+	border-left-style: solid;
+	border-left-width: 2px;
+}
+.nom{
+	line-height: 26px;
+	font-size: 26px;
+	padding-left: 10px;
+	text-transform: uppercase;
+	color: #ed1c24;
+	font-family: 'Tungsten A', 'Tungsten B'; 
+	font-weight: 600; 
+	font-style: normal;
+}
+.nom2{
+	line-height: 23px;
+	font-size: 23px;
+	padding-left: 10px;
+	color: black;
+	font-family: 'Tungsten A', 'Tungsten B'; 
+	font-weight: 500; 
+	font-style: normal;
+}
+.espace_auteur{
+	padding-right: 10px;
+	padding-left: 10px;
+	float: left;
+}
+.espace_bas{
+	width: 292px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-top-color: #16aac4;
+	border-top-style: solid;
+	border-top-width: 2px;
+	display: table;
+}
+.espace_GP{
+	width: 50%;
+	display: table-cell;
+}
+.espace_GP:first-child{
+	border-right-color: #16aac4;
+	border-right-style: solid;
+	border-right-width: 1px;
+}
+.espace_GP:last-child{
+	border-left-color: #16aac4;
+	border-left-style: solid;
+	border-left-width: 1px;
+}
+.face{
+	padding-top: 8px;
+	padding-right: 5px;
+	float: left;
+}
+.gagant{
+	line-height: 24px;
+	font-size: 24px;
+	padding-top: 5px;
+	color: #16aac4;
+	text-transform: uppercase;
+	font-family: 'Tungsten A', 'Tungsten B'; 
+	font-weight: 600; 
+	font-style: normal;
+}
+.perdant{
+	line-height: 24px;
+	font-size: 24px;
+	padding-top: 5px;
+	color: #ed1c24;
+	text-transform: uppercase;
+	font-family: 'Tungsten A', 'Tungsten B'; 
+	font-weight: 600; 
+	font-style: normal;
+}
+
+
+
+
+
+
+     l’opinion de nos blogueurs 
+   
+
+
+
+
+ blogues.journaldemontreal.com 
+
+
+
+
+       mathieu bock-côté 
+     
+
+       Renaissance Legault ? 
+     
+
+
+
+
+       On le disait condamné, mais François Legault a surpris. Combatif et vigoureux, il s’est imposé avec ses thèmes comme le maître du débat. L’homme n’est pas un orateur né, mais son franc-parler l’a servi. 
+       C’était aussi une bonne soirée pour Françoise David même si elle avait la partie facile. Car son souverainisme musclé dissimule, vise surtout l’affaiblissement du PQ. Pauline Marois était sur la défensive alors qu’elle aurait dû attaquer. Sa nature plus consensuelle que guerrière la desservait, même si elle maîtrise bien ses dossiers. Devant la verdeur du premier et la candeur de la seconde, elle semblait plus tiède qu’elle ne le devrait. 
+       Philippe Couillard est un cas à part. Au-delà de son style assuré, il sort affaibli sur les questions d’intégrité. Une réalité s’imposait: on a rarement vu un chef de parti aussi étranger aux préoccupations des Québécois francophones. Qu’ils ne comptent pas sur lui pour défendre leur langue et leur identité. 
+     
+
+
+
+
+
+
+         gagnant 
+       
+
+         François Legault 
+       
+
+
+
+
+
+
+         perdante 
+       
+
+         Pauline Marois 
+       
+
+
+
+
+
+       lise ravary 
+     
+
+       Un débat efficace 
+     
+
+
+
+
+       Et si la performance de François Legault ramenait la possibilité d’un gouvernement minoritaire, libéral ou péquiste? Ni madame Marois ni Philippe Couillard n’ont offert une performance d’exception hier. C’est peu probable, en partie parce que la CAQ est devenue le parti d’un seul homme (et son épouse). Souhaitons par contre qu’il soit réélu.
+       Philippe Couillard a reculé avec ses positions floues sur la langue et sur la charte. Même s’il avait eu raison, dire aux Québécois que leurs inquiétudes ne sont pas justifiées illustre la distance entre le PLQ et la majorité francophone. Et le mot référendum sonnait creux hier soir. 
+       Madame Marois confond débat et infopub. Elle préfère vendre le résultat que le produit. Elle s’est mal défendue sur les nominations partisanes, sur le «deal», sur la charte. Dire en fermeture que le PQ va «diminuer la souffrance» avec les soins en fin de vie? Surréaliste. 
+     
+
+
+
+
+
+
+         gagnant 
+       
+
+         François Legault 
+       
+
+
+
+
+
+
+         perdant 
+       
+
+         Philippe Couillard 
+       
+
+
+
+
+
+
+
+       benoît aubin 
+     
+
+       Jouer la trappe 
+     
+
+
+
+
+       Le débat d’hier faisait penser à la chanson de Richard Desjardins quand «le bon gars» se débouche une bière dans un party quand «tout le monde se met à parler» et que personne n’a envie d’écouter: GMF, CLSC, bonifier, couper, augmenter, réduire, taxer, milliards, dette, immobilisations, emplois, déficit, croissance, identité, langue,… référendum!
+       Mme Marois interrompt M. Couillard - qui dit : Mme Marois, Mme Marois! Françoise David et François Legault se font des passes. Legault attaque tout le monde – et fait souvent mouche. Couillard se défend mal sur «l’intégrité» et la langue. Marois paraît mal sur les «nominations partisanes». Et l’économie. Match nul en santé. Beaucoup de pareil au même. Peu de surprise.
+       Trop de mots, de sujets, trop de contraintes, pas assez de temps. Chacun se bat pour l’extrême centre. Rien sur Montréal, la culture, l’environnement, l’éducation.
+       Pas de conclusion claire à 10 jours du vote. À part un lourd sentiment de confusion, navrant. 
+     
+
+
+
+
+
+         gagnant 
+       
+
+         Aucun, avantage Legault 
+       
+
+
+
+
+
+         perdant 
+       
+
+         L’électeur ouvert 
+       
+
+
+
+
+
+       jean dussault 
+     
+
+       Voyons donc ! 
+     
+
+
+
+
+       Le débat de jeudi aura servi à quelque chose : les personnes de bonne foi savent maintenant qu’il n’y aura pas de référendum sur la souveraineté avant un sapristi de bout de temps. Ça peut vous plaire ou vous déplaire, mais ça devrait être clair.
+       La forme: Le chef du PLQ m’a impressionné par son calme; la leader péquiste m’est apparue plus en contrôle que dans le débat de la semaine dernière; M. Legault m’a cassé les oreilles; la prestance de la porte-parole solidaire a été encore une fois quasi envoûtante.
+       Le fond: La vision trudeauiste des droits individuels est évidente chez M. Couillard; Mme Marois a une connaissance impressionnante des choses de l’État; le chef de la CAQ a indûment attaqué le gouvernement sortant; Mme David nous a invités à rêver.
+       Au final: Il n’y a aucun lien entre être bon dans un débat et être bon pour gouverner. 
+     
+
+
+
+
+
+
+         gagnantes 
+       
+
+         Marois et David 
+       
+
+
+
+
+
+
+         perdant 
+       
+
+         François Legault 
+       
+
+
+
+
+
+
+
+       esther bégin 
+     
+
+       L’aiguille a-t-elle bougé ? 
+     
+
+
+
+
+       Les face-à-face maintenant derrière nous, on entre dans le dernier droit de la campagne. Qui a amélioré son sort?
+       Pauline Marois a réussi à se montrer déterminée sans être agressive. Mais sa tendance à couper la parole avec des phrases qui semblent apprises par cœur finit par agacer. Elle a encore paru sur la défensive sur la question du référendum…
+       Philippe Couillard, malmené dans le segment sur l’intégrité, a réussi à rester debout. Mais il n’a fait aucun gain.
+       François Legault, de loin le plus d’attaques, mais a-t-il fait bouger l’aiguille en sa faveur? Avec certains raccourcis et des accès de démagogie, on peut en douter…
+       Françoise David, la grande cool de la soirée ! Avec son gros bon sens, elle a même réussi à rallier ses 3 adversaires sur la question du maintien des personnes âgées dans leur logement. Elle a réussi à conserver les gains pour QS et peut-être sa circonscription. 
+     
+
+
+
+
+
+
+         gagnante 
+       
+
+         Françoise David 
+       
+
+
+
+
+
+         perdants 
+       
+
+         Tous les analystes 
+       
+
+
+
+
+
+       steve flanagan 
+     
+
+       Couillard résiste 
+     
+
+
+
+
+       Le chef du PLQ Philippe Couillard a été la cible de tirs groupés de la part de ses adversaires.
+       S’il a démontré une plus grande aisance à l’écran et une argumentation plus convaincante en économie que la semaine dernière, il a néanmoins connu des moments difficiles lors des échanges sur l’intégrité et sur la langue se trahissant parfois avec des airs contrariés.
+      Néanmoins, son bilan de soirée n’est pas si mal, il a résisté aux attaques et évité le KO.
+       Ce que devait réaliser cependant la chef du PQ Pauline Marois qui a parfois semblé résigné à son sort, bien que tout ne soit pas joué pour autant. François Legault, le chef de la CAQ, aurait pu animer le débat à lui seul tellement il était d’attaque sur tous les fronts. Alors que Françoise David, la chef de QS, fidèle à son habitude, s’est davantage préoccupée des gens et a lancé les meilleures répliques. 
+     
+
+
+
+
+
+
+         gagnant 
+       
+
+         Philippe Couillard 
+       
+
+
+
+
+
+
+         perdante 
+       
+
+         Pauline Marois 
+       
+
+
+
+
+
+ Mathieu Bock-Côté Renaissance Legault ? On le disait condamné, mais François Legault a surpris. Combatif et vigoureux, il s’est imposé avec ses thèmes comme le maître du débat. L’homme n’est pas un orateur né, mais son franc-parler l’a servi. C’était aussi une bonne soirée pour Françoise David même si elle avait la partie facile. Car son souverainisme musclé dissimule, vise surtout l’affaiblissement du PQ. Pauline Marois était sur la défensive alors qu’elle aurait dû attaquer. Sa nature plus consensuelle que guerrière la desservait, même si elle maîtrise bien ses dossiers. Devant la verdeur du premier et la candeur de la seconde, elle semblait plus tiède qu’elle ne le devrait. Philippe Couillard est un cas à part. Au-delà de son style assuré, il sort affaibli sur les questions d’intégrité. Une réalité s’imposait: on a rarement vu un chef de parti aussi étranger aux préoccupations des Québécois francophones. Qu’ils ne comptent pas sur lui pour défendre leur langue et leur identité.
+ Gagnant­ François Legault
+ Perdante­­ Pauline Marois
+  
+ Lise Ravary Un débat efficace Et si la performance de François Legault ramenait la possibilité d’un gouvernement minoritaire, libéral ou péquiste? Ni madame Marois ni Philippe Couillard n’ont offert une performance d’exception hier. C’est peu probable, en partie parce que la CAQ est devenue le parti d’un seul homme (et son épouse). Souhaitons par contre qu’il soit réélu.   Philippe Couillard a reculé avec ses positions floues sur la langue et sur la charte. Même s’il avait eu raison, dire aux Québécois que leurs inquiétudes ne sont pas justifiées illustre la distance entre le PLQ et la majorité francophone. Et le mot référendum sonnait creux hier soir.   Madame Marois confond débat et infopub. Elle préfère vendre le résultat que le produit. Elle s’est mal défendue sur les nominations partisanes, sur le «deal», sur la charte. Dire en fermeture que le PQ va «diminuer la souffrance» avec les soins en fin de vie? Surréaliste.
+ Gagnant­ François Legault
+ Perdant­­ Philippe Couillard
+  
+ Benoît Aubin Jouer la trappe Le débat d’hier faisait penser à la chanson de Richard Desjardins quand «le bon gars» se débouche une bière dans un party quand «tout le monde se met à parler» et que personne n’a envie d’écouter: GMF, CLSC, bonifier, couper, augmenter, réduire, taxer, milliards, dette, immobilisations, emplois, déficit, croissance, identité, langue,... référendum! Mme Marois interrompt M. Couillard - qui dit : Mme Marois, Mme Marois! Françoise David et François Legault se font des passes. Legault attaque tout le monde – et fait souvent mouche. Couillard se défend mal sur «l’intégrité» et la langue. Marois paraît mal sur les «nominations partisanes». Et l’économie. Match nul en santé. Beaucoup de pareil au même. Peu de surprise. Trop de mots, de sujets, trop de contraintes, pas assez de temps. Chacun se bat pour l’extrême centre.  Rien sur Montréal, la culture, l’environnement, l’éducation. Pas de conclusion claire à 10 jours du vote. À part un lourd sentiment de confusion, navrant.
+ Gagnant­ Aucun, avantage Legault
+ Perdant­­ L’électeur ouvert
+  
+ Jean Dussault Voyons donc ! Le débat de jeudi aura servi à quelque chose : les personnes de bonne foi savent maintenant qu’il n’y aura pas de référendum sur la souveraineté avant un sapristi de bout de temps. Ça peut vous plaire ou vous déplaire, mais ça devrait être clair. La forme: Le chef du PLQ m’a impressionné par son calme;  la leader péquiste m’est apparue plus en contrôle que dans le débat de la semaine dernière; M. Legault m’a cassé les oreilles; la prestance de la porte-parole solidaire a été encore une fois quasi envoûtante. Le fond: La vision trudeauiste des droits individuels est évidente chez M. Couillard; Mme Marois a une connaissance impressionnante des choses de l’État;  le chef de la CAQ a indûment attaqué le gouvernement sortant; Mme David nous a invités à rêver. Au final: Il n’y a aucun lien entre être bon dans un débat et être bon pour gouverner.
+ Gagnantes­ Marois et David
+ Perdant­­ François Legault
+  
+ Esther Bégin L’aiguille a-t-elle bougé ? Les face-à-face maintenant derrière nous, on entre dans le dernier droit de la campagne. Qui a amélioré son sort? Pauline Marois a réussi à se montrer déterminée sans être agressive. Mais sa tendance à couper la parole avec des phrases qui semblent apprises par cœur finit par agacer. Elle a encore paru sur la défensive sur la question du référendum… Philippe Couillard, malmené dans le segment sur l’intégrité,  a réussi à rester debout. Mais il n’a fait aucun gain. François Legault, de loin le plus d’attaques, mais a-t-il fait bouger l’aiguille en sa faveur? Avec certains raccourcis et des accès de démagogie, on peut en douter… Françoise David, la grande cool de la soirée ! Avec son gros bon sens, elle a même réussi à rallier ses 3 adversaires sur la question du maintien des personnes âgées dans leur logement. Elle a réussi à conserver les gains pour QS et peut-être sa circonscription.
+ Gagnante­ Françoise David
+ Perdant­­s Tous les analystes
+  
+ Steve Flanagan Couillard résiste Le chef du PLQ Philippe Couillard a été la cible de tirs groupés de la part de ses adversaires. S’il a démontré une plus grande aisance à l’écran et une argumentation plus convaincante en économie que la semaine dernière, il a néanmoins connu des moments difficiles lors des échanges sur l’intégrité et sur la langue se trahissant parfois avec des airs contrariés. Néanmoins, son bilan de soirée n’est pas si mal, il a résisté aux attaques et évité le KO. Ce que devait réaliser cependant la chef du PQ Pauline Marois qui a parfois semblé résigné à son sort, bien que tout ne soit pas joué pour autant. François Legault, le chef de la CAQ, aurait pu animer le débat à lui seul tellement il était d’attaque sur tous les fronts. Alors que Françoise David, la chef de QS, fidèle à son habitude, s’est davantage préoccupée des gens et a lancé les meilleures répliques.
+ Gagnant­ Philippe Couillard
+ Perdante­­ Pauline Marois

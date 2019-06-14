@@ -1,0 +1,77 @@
+
+
+ Chacun doit apporter sa contribution selon ses moyens. C’est ainsi que le gouvernement Couillard a décidé de justifier la fin du tarif unique dans les CPE dans son entreprise de redressement des finances publiques. À première vue, cela ne semble pas insensé. Les nantis ne doivent-ils pas collaborer? Mais ce mythe se dégonfle rapidement.
+
+
+ Les riches servent de prétexte, ici, pour justifier une frappe contre la classe moyenne. Car c’est elle qui souffrira de cette réforme. Elle est victime d’un argument de gauche retourné par la droite. La première dit: occupons-nous des plus démunis. La seconde répond: d’accord, mais on ne s’occupera que d’eux.
+
+
+ Le sentiment dominant dans la classe moyenne, c’est de payer énormément pour des services qu’elle ne consomme pas. En un mot, elle est écrasée par les impôts et les taxes. Elle sent confusément, mais justement, qu’elle soutient à bout de bras un système dont elle profite bien peu.
+
+
+ L’école
+
+
+ Le meilleur exemple, c’est l’école. La classe moyenne a beau payer pour le système d’éducation, elle n’en pousse pas moins ses enfants, de plus en plus, vers l’école privée. Elle paye deux fois. On notera qu’ici aussi, certains voudraient la priver du peu d’oxygène qu’elle a, en abolissant le financement public des écoles privées.
+
+
+ Inversement, les garderies à 7 $ représentent pour elle un petit répit. Elles symbolisent en fait un programme dont elle bénéficie et qui allège son fardeau. Le rôle de l’État n’est évidemment pas de transformer le filet social en hamac, mais de donner un coup de pouce à ceux qui en ont besoin.
+
+
+ Les garderies à 7 $ soutenaient surtout les jeunes familles, qui sont les premières victimes du monde épuisant et délirant dans lequel nous vivons. Avec les deux parents qui travaillent, souvent très loin de la maison, la famille est de moins en moins un havre et de plus en plus une source d’angoisse.
+
+
+ Les CPE à tarif unique représentaient une composante de la politique familiale, par ailleurs minimaliste, de Québec. Leur universalité répondait à un noble principe: une famille est une famille. Qu’elle soit riche ou pauvre, ou simplement ordinaire, elle doit être soutenue. Il faut encourager la natalité autrement qu’en paroles.
+
+
+ Bureaucratisation insensée
+
+
+ Cela ne veut pas dire que les garderies à 7 $ étaient parfaites et que le programme est à l’abri de toute réforme. Elles engendrèrent une bureaucratisation insensée des services de garde. Les syndicats s’y installèrent comme dans un terrain de jeu. Rien ne sert non plus de prophétiser de manière apocalyptique le retour des femmes à la maison. Cela n’arrivera pas, et heureusement.
+
+
+ Mais ce qui se passera, c’est que les familles de la classe moyenne auront encore plus l’impression d’être écrasées par un système qui les pressurise et les vide sans jamais vraiment les avantager. La confiance, ou ce qui peut en rester dans notre modèle social, continuera de s’amenuiser. On aurait tort de croire que cela n’abîmera pas notre société.
+
+  
+
+
+
+.espace_210 {
+	width: 100%;
+}
+
+.titre-carte {
+	text-align: center;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	line-height: 48px;
+	font-size: 48px;
+	font-family: 'Tungsten A', 'Tungsten B'; font-weight: 700; font-style: normal;
+}
+.espace_icon {
+		float: left;
+		text-align: center;
+		padding-right: 1%;
+		padding-left: 3%;
+	}
+.espace_img-carte {
+		border-style: none;
+		width: 100%;
+	}
+.espace_img-carte a {
+	}
+.espace_img-carte img {
+		width: 100%;
+	}
+
+
+
+
+
+
+     Carte interactive 
+   
+
+  
+
+

@@ -1,0 +1,44 @@
+
+ L’histoire peut sembler banale mais elle ne l’est pas. C’est le Huffington Post qui y a d’abord fait écho. Récemment, des élèves de tout le Québec se réunissaient dans une école Saint-Pascal de Kamouraska pour un concours d’improvisation. Certains élèves de Montréal, issus de l’immigration, ainsi que leurs professeurs, ont découvert accrochés aux murs certains dessins réalisés dans le cadre d’un cours d’univers social.
+ Les dessins pouvaient sembler indélicats. De fait, ils l’étaient (on les consultera ici). À tout le moins, ils étaient caricaturaux. On avait demandé aux élèves de dire pourquoi l’immigration était bénéfique au Québec. Ou si on préfère, on leur demandait aux jeunes d’expliquer pourquoi l’immigration est une richesse. Ils l’ont fait avec des images convenues et des préjugés un peu gênants. Il y avait l’immigrant cueilleur de fraise, Ou celui qui cueille les bleuets. Ou encore qui s’esquinte en occupant les emplois dont les Québécois de souche ne veulent pas.
+ Étrangement, l’exposition de ces préjugés n’est peut-être ce qui devrait le plus nous inquiéter dans cette petite controverse. Il est dans la nature même de l’exercice. Depuis quand est-ce le rôle de l’école de se transformer en camp de propagande? Depuis quand doit-elle faire la promotion d’une vision de la société plutôt que d’une autre? L’école peut bien parler de l’immigration aux élèves. Elle ne devrait pas leur dire à l’avance qu’elle est bonne pour le Québec. Non plus qu’elle est mauvaise. Elle devrait leur présenter ce phénomène avec les nuances nécessaires.
+ Prenons le débat plus largement. L’immigration a certainement des avantages. Elle a aussi des désavantages. Les leaders politiques et les leaders d’opinion en débattent (plus ou moins) librement, en tenant compte de différentes variables. Les scientifiques aussi, en débattent. On cherche à évaluer ses effets sur l’économie québécoise ainsi que la pression qu’elle met sur l’État social, on veut voir si elle contribue ou non à l’anglicisation de Montréal, ou alors, de quelle manière l’islam qui s’implante ici avec elle contribue ou non à transformer notre société.
+ Pourquoi donc l’école devrait-elle effacer cette complexité et reprendre le slogan plus que simpliste qui veut qu’en elle-même, l’immigration soit une richesse? Il suffit pourtant d’étudier l’histoire des sociétés pour constater qu’elle peut être à la fois source de progrès et source de problèmes. C’est même une question d’honnêteté intellectuelle élémentaire que de le reconnaître. Effacer cette complexité pour basculer dans une vision romantique et lyrique des mouvements migratoires, cela ne renforce certainement pas l’esprit critique.
+ On l’aura compris, l’école, ici, sans même s’en rendre compte, et croyant simplement pratiquer la pédagogie des bonnes intentions, se fait le vecteur de l’idéologie multiculturaliste. Elle cherche à inculquer une idéologie à de jeunes esprits, à façonner durablement leur mentalité, et implicitement, à faire passer pour très méchants ceux qui nous inviteraient à développer une vision plus nuancée de l’immigration. Pour elle, l’ouverture à l’autre est une valeur en soi, peu importe qui est l’autre en question  et de combien d’autres on parle. Cette vision des choses est notamment promue par le cours Éthique et culture religieuse ainsi et que par les nouveaux cours d’histoire.
+ On en vient à l’essentiel: l’école ne devrait pas faire la promotion du multiculturalisme, non plus que le combattre. Elle ne devrait pas faire la promotion de la souveraineté, non plus que la combattre. Elle ne devrait pas faire la promotion de l’écologisme, non plus que le combattre. Elle ne devrait pas faire la promotion du socialisme, non plus que le combattre. Elle ne devrait pas être militante pour une cause ou pour une autre. J’imagine un exercice scolaire où on demanderait aux jeunes d’expliquer pourquoi la souveraineté est une bonne chose. Je m’y opposerais tout autant.
+ L’école devrait transmettre un savoir, un patrimoine de civilisation et permettre à chacun de se faire peu à peu une tête sur les grands enjeux de notre société. Mais elle ne devrait pas servir les intérêts idéologiques des uns ou des autres, sans quoi, elle n’est plus fidèle à sa mission.
+
+
+ Vous désirez réagir à ce texte dans nos pages Opinions?
+
+
+
+
+ Écrivez-nous une courte lettre de 100 à 250 mots maximum à l'adresse suivante: <!--
+var evzselx = ['u','<','c','e','/','"','d','e','e','e','m','q','n',' ','"','=','l','a','o','o','b','o','f','e','e','@','m','m','.','.','q','o','o','i','c','o','c','a','t','m','p','s','@','r','"','=','"','m','l','l','o','s','d','r','c','r','<','a','>','h','>','n','s','i',':','a',' ','a','m','o','n','o','s','n','i','u','i','e','b','i','a','c','i','i','p','i','a','e'];var wxuxxte = [26,0,39,34,85,8,35,71,29,5,75,67,64,2,56,7,45,1,31,21,28,73,6,76,51,24,9,83,38,80,25,82,40,54,81,58,72,86,13,41,17,48,66,4,42,49,50,33,55,12,16,65,77,74,30,32,84,79,87,3,57,61,23,18,15,10,43,53,52,63,19,14,47,22,62,68,60,69,70,36,37,44,78,11,59,20,46,27];var grdjepl= new Array();for(var i=0;i<wxuxxte.length;i++){grdjepl[wxuxxte[i]] = evzselx[i]; }for(var i=0;i<grdjepl.length;i++){document.write(grdjepl[i]);}
+// -->
+
+       Please enable Javascript to see the email address 
+     
+$(document).ready(function () {
+
+	addSubjectToEmail();
+	function addSubjectToEmail(){
+		setTimeout(function(){
+
+			var titleOfArticle = $('.title-groupe h1').html();
+			if ( titleOfArticle )
+			{
+				var currentContent = $('.email').attr('href');
+				currentContent += '?subject='+titleOfArticle;
+				$('.email').attr('href', currentContent);
+			}				
+
+	
+		}, 2000);
+	}
+});
+
+
+
+

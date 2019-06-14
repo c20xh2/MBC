@@ -1,0 +1,25 @@
+
+Les jeunes hommes sont à la recherche de grandes aventures et ne peuvent les vivre qu’en s’évadant dans l’imaginaire. Comme des millions de personnes, très jeune, j’ai lu Bilbo le Hobbit et Le Seigneur des anneaux. L’œuvre de J.R.R. Tolkien le permet. J’en ai conservé un souvenir vif.
+Alors évidemment, je suis allé au cinéma voir Le Hobbit, réalisé par Peter Jackson. Comme il l’avait fait avec la trilogie du Seigneur des anneaux, il parvient, grâce au génie technologique, à mettre en scène le monde de Tolkien. Le film émerveillera les enfants. Mais fera réfléchir les grands.
+Bien et mal
+On connaît le monde fantastique de Tolkien. Il est fait de Hobbits, d’Elfes, d’Orques, de Gobelins, de géants, de magiciens et d’humains. De grandes forces s’y affrontent. Celles du bien contre celles du mal.
+Tolkien n’a pas créé cet univers à partir de rien. C’était un grand érudit. Il l’a fait en puisant dans les profondeurs de la mythologie européenne, dans ses recoins les plus sombres comme dans ses zones éclairées.
+Tolkien chante des vertus qui ne nous sont plus familières. L’héroïsme. Le sacrifice. Le courage. L’enracinement. La patrie. L’honneur. La fidélité. Les amitiés indestructibles. D’une certaine manière, ce sont les valeurs chevaleresques.
+On les reconnaît dans Le Hobbit. On y découvre la quête du peuple nain pour retrouver sa terre. Son chef inscrit son rêve dans la durée. Et c’est parce qu’il est fidèle à ses ancêtres qu’il est capable d’imaginer l’avenir. Évidemment, aimer la tradition ne consiste pas à s’enfermer dans le passé.
+De ces valeurs, notre époque se moque terriblement. L’homme courageux n’est-il pas un emmerdeur qui devrait se mêler de ses affaires? La fidélité n’est-elle pas le cache-sexe de ceux qui ont peur de la nouveauté? La patrie n’est-elle pas un enclos qui nous pose des œillères?
+Et pourtant, quelque chose en l’homme est à la recherche d’une vie moins centrée sur l’empire du nombril. Nous admirons les héros, les vrais. Et trop souvent, notre époque offre trop souvent comme objet d’admiration des starlettes insignifiantes.
+Valeurs oubliées
+Tolkien a transplanté l’humanité dans un nouveau décor qui révèle ses grandes forces et ses grandes faiblesses. Pour la même raison, nous aimons les films historiques qui nous ramènent 2000 ans en arrière. En se voyant dans une autre époque, l’homme découvre d’autres facettes de lui-même.
+Aller voir Le Hobbit, ce n’est pas cultiver exagérément la nostalgie de nos jeunes années. Ce n’est pas non plus fuir le réel dans le fantastique. Au contraire. C’est aller à la rencontre d’une œuvre qui nous révèle certaines parties oubliées de notre humanité. N’est-ce pas ce que permet la grande littérature?
+Je dirais même plus : aller voir Le Hobbit, c’est aller à la rencontre, en quelque sorte, d’une part enfouie de la civilisation occidentale. C’est redécouvrir, à travers les mythes qui les conservent, certaines valeurs fondamentales qui soutiennent notre civilisation.
+C’est le paradoxe du Hobbit. Il parle d’un monde qui n’a jamais existé et n’existera jamais. Mais il en profite pour mettre en scène des valeurs qui existent dans le cœur humain et que nous ne saurions renier sans nous rabougrir pour de bon.
+
+.titre_bi {margin-bottom: 5px; text-transform: none;line-height: 27px;font-style: normal;font-family: ProximaNovaExtraCondensedBold;text-align: center;font-weight: normal;font-size: 23px;}
+.espace_bloc { padding-left: 15px; padding-bottom: 10px; padding-right: 15px; padding-top: 10px; background-color: #f2f0dd; width: 180px;}
+.sig { font-size: 16px; padding-right: 5px; text-align: right; }
+
+
+
+     Quelque chose en l’homme est à la recherche d’une vie moins centrée sur l’empire du nombril 
+   
+

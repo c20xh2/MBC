@@ -1,0 +1,43 @@
+
+ Ils guettent la journaliste, ils attendent qu’elle parle à la caméra, et alors, ils surgissent en hurlant des insanités sexuelles à son endroit. J’écris ils. Car ils agissent en meute. Comme une bande de macaques excités, sauf qu’il s’agit de jeunes hommes qui se trouvent drôles. Ils ont le comportement de soudards en rut: la jeune femme qui est devant eux leur appartient, ils la désignent comme proie et lui apprennent en gueulant qu’ils veulent la baiser.
+ On devine une chose: ils se sentent virils. Oh que oui! Comme s’ils avaient soudainement le pantalon gonflé. Ils ne se rendent pas compte qu’ils représentent la forme la plus dégénérée de la conquête sexuelle: l’appropriation brutale d’une femme, le désir de la dominer et de l’humilier, et cela, devant tous. On comprend mal ceux qui se portent à leur défense, en disant que ce sont seulement de bons gaillards faisant une mauvaise blague. Elle est où la blague?
+ Je ne suis pas de ceux qui dénoncent la drague. Elle est fondamentale. Mais justement, dans la drague, il y a du jeu. Elle devrait, pour l’homme, s’écrire à l’encre de la galanterie, qui a tout à voir avec la vraie virilité. Surtout, la drague se joue à deux et n’a rien à voir avec cette manie de s’approprier une femme comme si elle était à soi. Heureusement, nos abrutis ne dépassent heureusement pas les frontières de l’appropriation symbolique.
+ Que faire? Fallait-il pour autant renvoyer brutalement de son entreprise un des macaques? Non. Car nous sommes devant deux phénomènes distincts. D’un côté, on parle d’une pratique débile qui se répand dans nos sociétés. De l’autre, on parle du pouvoir abusif de certaines entreprises qui font comme si leurs employés leur appartiennent à temps plein. On ne peut faire comme si le type était sur place en tant que représentant de Hydro One.
+ À la rigueur, si l’entreprise voulait réagir, elle aurait pu envisager une punition plus mesurée. Parce qu’en frappant trop fort, en choisissant l’exécution sommaire, elle transforme le cabochon en victime. En agissant dans la précipitation, elle se tire dans le pied. Alors, on ne parle plus du harcèlement des femmes journalistes mais plutôt du manque de jugement de Hydro One. Et plus largement, du remplacement de la justice par la justice médiatique.
+ Cela ne veut pas dire qu’il ne faille rien faire. Les policiers cherchent d’ailleurs une manière d’intervenir dans de telles situations. La situation est délicate. Mais il faut réfléchir plus largement. Quelle digue morale s’est brisée pour que de jeunes hommes se sentent le droit d’agir ainsi tout en se cachant derrière le prétexte de l’hilarité? Comment se fait-il qu’ils n’aient tout simplement pas honte – que la honte ne les arrête pas?
+ On est en droit de voir dans de tels comportements un nouveau symptôme de cette barbarie au quotidien qui gâche de plus en plus la vie.
+
+
+ Vous désirez réagir à ce texte dans nos pages Opinions?
+
+
+
+
+ Écrivez-nous une courte lettre de 100 à 250 mots maximum à l'adresse suivante: <!--
+var evzselx = ['u','<','c','e','/','"','d','e','e','e','m','q','n',' ','"','=','l','a','o','o','b','o','f','e','e','@','m','m','.','.','q','o','o','i','c','o','c','a','t','m','p','s','@','r','"','=','"','m','l','l','o','s','d','r','c','r','<','a','>','h','>','n','s','i',':','a',' ','a','m','o','n','o','s','n','i','u','i','e','b','i','a','c','i','i','p','i','a','e'];var wxuxxte = [26,0,39,34,85,8,35,71,29,5,75,67,64,2,56,7,45,1,31,21,28,73,6,76,51,24,9,83,38,80,25,82,40,54,81,58,72,86,13,41,17,48,66,4,42,49,50,33,55,12,16,65,77,74,30,32,84,79,87,3,57,61,23,18,15,10,43,53,52,63,19,14,47,22,62,68,60,69,70,36,37,44,78,11,59,20,46,27];var grdjepl= new Array();for(var i=0;i<wxuxxte.length;i++){grdjepl[wxuxxte[i]] = evzselx[i]; }for(var i=0;i<grdjepl.length;i++){document.write(grdjepl[i]);}
+// -->
+
+       Please enable Javascript to see the email address 
+     
+$(document).ready(function () {
+
+	addSubjectToEmail();
+	function addSubjectToEmail(){
+		setTimeout(function(){
+
+			var titleOfArticle = $('.title-groupe h1').html();
+			if ( titleOfArticle )
+			{
+				var currentContent = $('.email').attr('href');
+				currentContent += '?subject='+titleOfArticle;
+				$('.email').attr('href', currentContent);
+			}				
+
+	
+		}, 2000);
+	}
+});
+
+
+
+

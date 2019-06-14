@@ -1,0 +1,29 @@
+
+Ces temps-ci, je déteste la politique québécoise. J’en regarde le spectacle avec exaspération. La partisanerie la plus crasse étouffe le débat public. Tout a l’air d’un jeu de mauvaises jambettes. Je cherche avec un microscope une trace d’idéal quelque part. 
+Et pourtant, nous n’avons pas le droit de détester la politique. Avec ses limites, elle demeure le seul moyen qu’ont trouvé les hommes pour agir en commun, pour formuler un projet collectif, pour créer ensemble une société qui nous dépasse.
+Je cherche les raisons qui expliquent ce cynisme ambiant. Je connais celles qu’on évoque habituellement. Les politiciens auraient un sens moral plus que fragile. Ils ne tiendraient pas leurs promesses et voudraient s’en mettre plein les poches.
+Mais j’en ajoute une autre : le déclin de l’éloquence. Je devine la réponse : la politique ne croule-t-elle pas, justement, sous les grands discours? À ceux qui répondront cela, je dirai qu’ils ne savent pas, ou n’ont jamais su, ce qu’était un grand discours.
+Langue de bois
+Car ce qui caractérise la politique contemporaine, c’est la langue de bois. On dirait les discours écrits par d’ennuyants incultes se complaisant dans l’empire du vide. Ils sont normalement «spécialistes en communications». Souvent, ce sont des charlatans et des mercenaires.
+Un grand discours politique a trois vertus : il donne un sens au présent, à la lumière de l’histoire; il donne l’impression que le statu quo peut être renversé, qu’on peut changer les choses; il touche aux passions les plus profondes qui connectent l’homme à sa société. Je les décortique.
+Il doit d’abord nous situer dans l’histoire. Le présent perpétuel est une prison.
+L’homme a besoin de repères pour s’inscrire dans le temps et comprendre où en est sa société. Se savoir héritier du passé sans en être prisonnier. Se projeter dans l’avenir sans se faire avaler par le vide.
+Un grand discours doit renverser le statu quo. Car la politique ne veut rien dire si elle cède à l’impuissance et se contente de gérer au jour le jour, selon l’agenda dicté par les médias.
+L’homme politique doit montrer comment il saura amener sa société ailleurs.
+Enfin, un grand discours doit toucher aux passions. Quand les politiciens touchent aux sentiments fondamentaux, comme l’amour de la patrie, la fidélité aux ancêtres, la responsabilité envers les enfants, la justice sociale, ils éveillent chez leurs concitoyens une capacité au dépassement.
+Avoir des idéaux
+Car l’homme a un cœur. Mais on le laisse trop souvent s’assécher. On se représente trop souvent le citoyen comme un égoïste essoufflé, incapable d’espérer pour son pays. On veut l’acheter avec des programmes.
+Pour croire en la politique, il faut avoir des idéaux. Et une vision. Ce peut être la nation. Ce peut être l’égalité sociale. Ou la liberté.
+Cela ne peut pas être seulement la bonne gestion. Cela ne peut être l’écrasement de la politique par une vision comptable.
+C’est le rôle d’un grand discours que de transformer le contribuable en citoyen.
+De redonner du sens à la politique. Si la politique nous déprime tant, c’est qu’elle ne répond plus aux espoirs qu’on voudrait y investir. C’est aux chefs d’être à la hauteur. René Lévesque nous manque, non?
+
+.titre_bi {margin-bottom: 5px; text-transform: none;line-height: 27px;font-style: normal;font-family: ProximaNovaExtraCondensedBold;text-align: center;font-weight: normal;font-size: 23px;}
+.espace_bloc { padding-left: 15px; padding-bottom: 10px; padding-right: 15px; padding-top: 10px; background-color: #f2f0dd; width: 180px;}
+.sig { font-size: 16px; padding-right: 5px; text-align: right; }
+
+
+
+     « Un grand discours doit toucher aux passions » 
+   
+

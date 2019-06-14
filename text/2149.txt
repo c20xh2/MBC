@@ -1,0 +1,25 @@
+
+Alors, c’est pour bientôt? La fin du monde, je veux dire. D’ici moins de cent heures, vendredi, en fait, une vague immense engloutira la surface du globe. Ou encore une pluie de sauterelles viendra nous dévorer. À moins que le noyau de la planète explose et fissure la croûte terrestre? 
+Les scénarios sont nombreux. Et pour cela, certains se préparent. Ils s’achètent un abri spécial inventé pour résister à la fin de l’univers. Je note que ces abris coûtent cher et feront probablement la fortune de ceux qui les vendent et pensent se payer un festin samedi.
+D’autres se planquent sur une ferme. Pour eux, l’apocalypse a l’allure d’une crise économique. En attente du grand soir, ils ont réappris les règles de la survie. Au moins, si le monde existe encore samedi, la peur de la catastrophe les aura initiés au jardinage et à la menuiserie!
+Remplir les cartes 
+Mais il y a aussi les imbéciles. Ils vont remplir leurs cartes de crédit. Le monde va péter : pourquoi ne pas s’acheter juste avant des tonnes de bébelles et regarder l’explosion finale sur grand écran plasma? Pour eux, la vraie fin du monde arrivera avec leur prochain relevé de Visa!
+On voit tout cela et on se dit que l’homme est vraiment une bibitte bizarre. Et si on fait l’histoire de ses peurs profondes, il est possible d’écrire une histoire assez neuve et originale de la présence humaine sur terre.
+L’apocalypse est une vieille passion. L’homme aime se donner des frissons. On raconte que les premières générations de chrétiens, qui avaient suivi Jésus et qui croyaient à l’imminence de la fin des temps, étaient bien déçues.
+À quoi servait d’être un élu du Seigneur si on mourrait comme tout le monde? Il a fallu réinventer cette peur viscérale, en faire un mythe, qui s’est depuis logé dans les profondeurs de notre culture. Il n’en finit plus de renaître. Peut-être est-ce une manière d’apprivoiser notre mortalité?
+À la décharge des excités du jugement dernier, on confessera que l’homme a gagné, au siècle dernier, la possibilité d’anéantir la planète – à tout le moins, d’exterminer l’humanité dans son ensemble. La peur d’un holocauste atomique a dominé la guerre froide.
+Au tour des écologistes
+Aujourd’hui, ce sont les écologistes radicaux qui prennent le relais de la grande frousse. La planète surchauffe. Les forêts se dépeuplent de leurs arbres. Et d’un coup, le souci légitime pour l’environnement se transforme en prophétie sur le jugement dernier.
+Comme disait l’économiste Keynes, «à long terme, nous sommes tous morts». Mais la fin du monde a cela de singulier qu’elle rejoint l’égoïsme de chacun. Certes, je mourrai. Mais le monde finira aussi avec moi! Je ne manquerai pas la suite! Ouf!
+Peut-être l’apocalypse joue-t-elle une fonction pédagogique? Terrifiés à l’idée que le monde finisse, nous prenons d’un coup conscience de sa beauté, de sa fragilité. N’est-ce pas parce que l’homme sait qu’il va mourir qu’il essaie d’avoir une belle et bonne vie?
+Et pourtant! Samedi, dimanche, lundi, nous nous réveillerons en paix. Désolé pour ceux qui espéraient assister au spectacle final! Non, le monde ne finira pas de sitôt. Pour le meilleur et pour le pire!
+
+.titre_bi {margin-bottom: 5px; text-transform: none;line-height: 27px;font-style: normal;font-family: ProximaNovaExtraCondensedBold;text-align: center;font-weight: normal;font-size: 23px;}
+.espace_bloc { padding-left: 15px; padding-bottom: 10px; padding-right: 15px; padding-top: 10px; background-color: #f2f0dd; width: 180px;}
+.sig { font-size: 16px; padding-right: 5px; text-align: right; }
+
+
+
+     Désolé pour ceux qui espéraient assister au spectacle final ! 
+   
+

@@ -1,0 +1,115 @@
+
+Nous terminons un cycle ­historique. Celui amorcé avec la Révolution tranquille. Le Québec change. Ses repères sont déstabilisés. Notre société hésite entre la lassitude, le ­cynisme et la dépression. C’est ce malaise politique que j’ai cherché à comprendre dans Fin de cycle.
+Au cœur de cette transformation, on assiste à la dislocation de la question nationale. Le projet ­souverainiste est dans un piteux état. Parce que j’ai constaté cela,on m’a demandé si j’étais devenu ­fédéraliste.
+Mon pessimisme ne serait-il pas une forme de renoncement? Non.
+Et c’est parce que je demeure profondément indépendantiste que j’ai cherché à comprendre pourquoi l’idéal qui m’a été transmis en héritage, presque de manière familiale, est aujourd’hui compromis.
+Mais à moins de croire qu’un ­slogan suffira à relancer leur cause, les souverainistes devraient se ­demander pourquoi leur option a échoué jusqu’à présent. Et pourquoi elle régresse aujourd’hui. Il ne suffit plus de dire « à la prochaine fois ».
+Hypothèses
+J’avance deux hypothèses. Première hypothèse : assez rapidement dans son histoire, l’indépendance a été confisquée par une ­certaine gauche. Il ne suffisait pas de désirer l’indépendance. Mais de l’instrumentaliser au service d’un projet de société. D’abord socialiste. Ensuite social-démocrate. Demain écologiste?
+Mais les Québécois ne sont pas tous à gauche. En associant principalement la cause nationale à la gauche, ne risquait-on pas de perdre l’appui des nationalistes de centre-droit? L’indépendance ne devrait ­appartenir à aucune idéologie.
+Ce souverainisme progressiste est aujourd’hui remobilisé dans la critique du Canada « de Harper ». Les souverainistes misent beaucoup sur son impopularité pour mousser leur cause. C’est de bonne guerre.
+Mais je leur pose une question. Imaginons un gouvernement néo-­démocrate animé par des valeurs
+« progressistes ». Cela veut-il dire que l’indépendance, d’un coup,
+perd sa pertinence? Un Canada
+« de gauche » vaut-il mieux qu’un Québec « de droite »?
+Deuxième hypothèse : l’oubli de l’identité nationale. Comme si le ­nationalisme fondé sur l’identité était ringard, dépassé. Un peu comme si le souverainisme ne ­voulait pas de l’identité du peuple qu’il voulait libérer. De là sa tentation multiculturaliste d’après 1995.
+L’heure est venue d’un vrai bilan. Plutôt que de présenter le Québec comme le laboratoire mondial de l’écologisme ou de la société festive, les souverainistes devraient redécouvrir les vertus de l’enracinement, de l’identité.
+Les Québécois ont une vertu ­fondamentale: ils ne veulent pas ­disparaître. C’est en se réconciliant avec elle que l’indépendance pourrait renaître. Je l’espère. Et pour cela, j’essaie d’y croire.
+
+
+.espace_430 {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 430px;
+}
+.texte {
+	padding-right: 20px;
+	padding-left: 10px;
+	font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+	text-transform: none;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
+}
+.espace_gauche {
+	color: #1a4972;
+	float: left;
+	padding-right: 5px;
+	padding-left: 10px;
+	line-height: 38px;
+	font-size: 38px;
+	font-family: ProximaNovaExtraCondensedBold;
+}
+.mot_bleu {
+	font-weight: bold;
+	color: #1a4972;
+}
+.ligne {
+	margin-right: 20px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color: #1a4972;
+	height: 1px;
+}
+.titre {
+	font-style: italic;
+	padding-right: 20px;
+	padding-left: 10px;
+	line-height: 24px;
+	font-size: 24px;
+	color: #1a4972;
+	text-transform: uppercase;
+	font-family: ProximaNovaExtraCondensedBold;
+}
+.texte_gras {
+	padding-top: 3px;
+	padding-right: 20px;
+	padding-left: 10px;
+	line-height: 17px;
+	font-style: normal;
+	font-family: ProximaNovaExtraCondensedBold;
+	text-align: left;
+	font-weight: normal;
+	font-size: 15px;
+}
+.espace_droite {
+	padding-bottom: 5px;
+	padding-right: 20px;
+	padding-left: 10px;
+	float: right;
+	width: 210px;
+}
+.espace_img {
+	padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+      Fin de cycle 
+    
+
+      Mathieu Bock-Côté Éditions du Boréal 
+    
+
+
+     « 
+   
+
+     Sans être professeur de désespoir, on peut bien en convenir : notre fin de cycle n’a rien de joyeux. Non pas qu’il ne fasse pas bon vivre au Québec, cette société d’une douceur indéniable particulièrement choyée à l’échelle du malheur des peuples, selon la formule assez juste de Robert Bourassa. La société québécoise a les qualités de ses défauts : molle, mais douce; bonasse, mais généreuse; accommodante à outrance, mais ouverte; prudente, mais timorée. Il n’en demeure pas moins que la situation politique nous invite à redécouvrir les bienfaits de la prudence, justement pour mieux traverser une période de basses eaux historiques. Le peuple québécois est appelé à gérer intelligemment la défaite d’un idéal qui en était venu à se confondre avec son propre destin et qui était celui de sa refondation politique, de sa refondation nationale. Une certaine idée du Québec a avorté. Fin de cycle, oui. La société québécoise est occupée à assumer ses échecs, même si elle ne veut pas les admettre. En un mot, le souffle de la Révolution tranquille ne soulève plus personne, et ce qui en reste, une petite brise nostalgique, en incite beaucoup à se lover dans leurs souvenirs, certainement plus inspirants que la grisaille contemporaine. Les repères collectifs habituels se brouillent, de nouveaux tardent à se constituer, car nous ne savons plus à quelles catégories idéologiques et sociologiques nous référer pour déceler spontanément les préférences collectives dans les sondages. De là la constitution du grand parti des ni-ni. Ni souverainistes, ni fédéralistes, ni de gauche, ni de droite [...]. 
+    »
+
+
+
+     « 
+   
+
+     Une société qui se défait de son héritage risque de se liquéfier. La question identitaire permet d’examiner celle des fondements de la démocratie et de comprendre que cette dernière ne saurait se suffire à elle-même, qu’elle présuppose un peuple historiquement constitué dont on ne saurait décréter l’existence par un simple coup de baguette idéologique, même si celle-ci se réclame de l’« inclusion ». Or, dans une perspective québécoise, la crise des accommodements raisonnables a révélé un malaise identitaire encore plus profond, lié à l’épuisement de la synthèse identitaire mise en place avec la Révolution tranquille, faite de nationalisme linguistique, de laïcisme et d’appel à la refondation politique du Québec. Les paramètres idéologiques établis au moment de la modernisation de l’identité québécoise à partir des années 1960 la corsettent aujourd’hui trop sévèrement, entravent sa revitalisation. L’identité québécoise est-elle vraiment une création dont le dernier demi-siècle aurait l’exclusivité? Surtout, on le sent de plus en plus, la nation québécoise ne saurait se définir exclusivement comme une francophonie nord-américaine, selon la suggestion d’un historien comme Gérard Bouchard, par exemple. Nous le savons, une identité collective est faite de ressources nombreuses, certaines puisées dans un passé lointain, d’autres dans un passé plus récent, d’autres composées d’idéaux qui fécondent le présent et l’avenir. Aujourd’hui, la vieille matière identitaire héritée d’avant 1960 se renouvelle et trouve une pertinence nouvelle, tant sur le plan politique que sur le plan de la culture populaire. [...] 
+    »
+
+
